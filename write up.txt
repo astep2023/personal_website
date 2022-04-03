@@ -1,0 +1,7 @@
+I only have two pages on this website. I have my about me page which is my homepage. On this page is some stuff about me. Like my favorite songs, movies/shows, and video games. On the resume page is a picture of me and two other pictures. One picture is linked to my github and the other is linked to my linkedin account. 
+
+I changed my overall color design from my start. I didn't realized the blues that I were trying to use just wasn't working out. I took your advice and left the fancy font to only the major big headings. I moved the education section to around the top of my resume as well. I removed my cover letter section because it feels weird to put a cover letter on a website to me. 
+
+I wanted to do a cooler website design overall. I like the design I have here but I feel it is too basic for what I really want. The nav bar is something I really would like to work on. I wasn't able to get it looking exactly how I wanted but I got it close enough for now. I also couldn't get to designing the footer section that I wanted so I just left it out of the final design.
+
+The home style sheet is just slightly different than the "style" style sheet. The h1's are slightly different in both but that's really the only other difference between the two files. The images folder contains all images.
